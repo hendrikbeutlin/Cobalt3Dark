@@ -1,0 +1,23 @@
+{
+    "name": "Cobalt3Dark",
+    "displayName": "Cobalt3Dark",
+    "description": "A darker version of the Cobalt3 theme",
+    "publisher": "hendrikbeutlin",
+    "version": "0.0.1",
+    "keywords": ["Cobalt3Dark"],
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cobalt3Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cobalt3Dark-color-theme.json"
+            }
+        ]
+    }
+}
