@@ -5,6 +5,10 @@
     "publisher": "hendrikbeutlin",
     "version": "0.0.1",
     "keywords": ["Cobalt3Dark"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hendrikbeutlin/Cobalt3Dark"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
