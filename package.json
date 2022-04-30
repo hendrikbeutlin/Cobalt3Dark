@@ -3,8 +3,10 @@
     "displayName": "Cobalt3Dark",
     "description": "A darker version of the Cobalt3 theme",
     "publisher": "hendrikbeutlin",
-    "version": "0.0.1",
-    "keywords": ["Cobalt3Dark"],
+    "version": "0.1.0",
+    "keywords": [
+        "Cobalt3Dark"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/hendrikbeutlin/Cobalt3Dark"
