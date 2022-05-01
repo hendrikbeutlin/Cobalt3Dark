@@ -10,7 +10,8 @@ This is just a darker version of the common Cobalt3 theme. Enjoy!
 3. Enable the installed theme from the Color Theme drop down list.
 4. Optional: Use the recommended settings below for best experience
 ## Recommended Settings
-I highly recommend using the Material icon theme and the FiraCode font in combination with the Coblat3Dark theme. You should modify your settings.json as follows:
+I highly recommend using the Material Icon Theme and the FiraCode font in combination with the Cobalt3Dark theme. You can find the first one in the extensions marketplace. For the Fira Code font, click here: https://github.com/tonsky/FiraCode.<br>
+You should modify your settings.json as follows:
 ```json
 {
     // Themes
